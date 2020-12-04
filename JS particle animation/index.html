@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Background Animation</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #mainCanvas {
+            background-color: white;
+            position: fixed;
+            z-index: -1;
+        }
+
+        #mainBody {
+            position: absolute;
+            margin: auto;
+            z-index: 0;
+            width: max-content;
+            right: 0;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            height: max-content;
+            font-size: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="mainCanvas"></canvas>
+    <div id="mainBody">
+        <button onclick="Javascript:location.reload();">Generate Random Background</button>
+    </div>
+
+    <script src="animate.js"></script>
+</body>
+
+</html>
