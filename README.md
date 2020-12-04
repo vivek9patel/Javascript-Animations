@@ -8,7 +8,7 @@ This repo contains different kind of animations made using javascript and html c
 
 - [JS Particle Animation](https://github.com/vivek9patel/Javascript-Animations/tree/master/JS%20particle%20animation)
 
-  ![JS Particle Animaion GIF](https://https://github.com/vivek9patel/Javascript-Animations/tree/master/JS%20particle%20animation/JS-particle-Animation.gif)
+  ![JS Particle Animaion GIF](https://github.com/vivek9patel/Javascript-Animations/blob/master/JS%20particle%20animation/JS-particle-Animation.gif)
 
 <!-- CONTRIBUTING -->
 
