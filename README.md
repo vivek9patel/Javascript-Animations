@@ -4,6 +4,12 @@
 
 This repo contains different kind of animations made using javascript and html canvas.
 
+## Inside Repository:
+
+- [JS Particle Animation](https://github.com/vivek9patel/Javascript-Animations/tree/master/JS%20particle%20animation)
+
+  ![JS Particle Animaion GIF](https://https://github.com/vivek9patel/Javascript-Animations/tree/master/JS%20particle%20animation/JS-particle-Animation.gif)
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
